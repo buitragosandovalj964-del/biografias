@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Biografías</title>
+</head>
+
+<body>
+
+<table border="1" width="600">
+
+
+  <tr>
+    <td colspan="2">
+      <h2>Lope de Vega</h2>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="150">
+      <img src="descarga.jpg" width="300">
+    </td>
+    <td>
+      <p>
+       Félix Lope de Vega y Carpio (Madrid, 25 de noviembre de 1562 - Madrid, 27 de agosto de 1635) fue uno de los más importantes poetas y dramaturgos del Siglo de Oro español y, por la extensión de su obra, uno de los más prolíficos autores de la literatura universal.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">
+      <h2>Luis de Góngora</h2>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <p>
+       Luis de Góngora y Argote (Córdoba, 11 de julio de 1561 - Córdoba, 23 de mayo de 1627) fue un poeta y dramaturgo español del Siglo de Oro, máximo exponente de la corriente literaria conocida como culteranismo o gongorismo.
+      </p>
+    </td>
+    <td width="170">
+      <img src="images.webp" width="300">
+    </td>
+  </tr>
+
+</table>
+
+
+<a href="https://es.wikipedia.org/wiki/Lope_de_Vega">Félix Lope de Vega</a>
+<br>
+<a href="https://es.wikipedia.org/wiki/Luis_de_Góngora">Luis de Góngora </a>
+
+</body>
+</html>
